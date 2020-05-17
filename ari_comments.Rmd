@@ -1,0 +1,40 @@
+---
+title: "Emily's Presentation"
+author: "Emily Lepert"
+output: ioslides_presentation
+---
+
+<!--
+Hello and welcome to this short presentation about Ari, the automated R
+instructor. I made this presentation for my dad.
+-->
+
+## What is Ari?
+
+- Annoying to install
+
+<!-- Ari is an R package which allows you to create lecture videos from plain
+text. It is very annoying to install and there isn't a lot of documentation -->
+
+## However
+
+- I'm a genius
+
+<!-- However, I'm a genius so I was able to install it and get it working -->
+
+## Technology
+
+- Markdown
+- R
+- [Amazon Polly](https://aws.amazon.com/polly/)
+
+<!--
+Ari is just a bundling of existing technologies including, r markdown and Polly,
+a text to speech product from Amazon Web Services.
+-->
+
+## Conclusion
+
+<!--
+Thank you for watching this video, it was very annoying to get working.
+-->
