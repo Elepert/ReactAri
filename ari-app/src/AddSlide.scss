@@ -1,0 +1,21 @@
+.input-page {
+    background-color: #f4f2f2;
+    height: 100vh;
+
+    .slide-form-box {
+        margin: 1em 1em 1em 1em;
+        padding: 1em 1em 1em 1em;
+        border: 1px solid #888888;
+        border-radius: 10px;
+        box-shadow: 2px 2px 3px #888888;
+
+        .content-row {
+            margin-top:1em;
+        }
+    
+        .button-row {
+            margin-top: 1em;
+        }
+    }
+    
+}

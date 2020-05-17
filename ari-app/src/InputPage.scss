@@ -1,0 +1,31 @@
+.input-page {
+    background-color: #f4f2f2;
+    height: 100vh;
+
+    .form-box {
+        width: 60%;
+        margin: auto;
+
+        .content-row {
+            margin-top:1em;
+        }
+    
+        .button-row {
+            margin-top: 1em;
+        }
+    }
+
+    .slides-waiting {
+        width: 50%;
+        margin: auto;
+        
+        .slide {
+            border: 1px solid #888888;
+            border-radius: 10px;
+            padding: 1em;
+            margin: 0.5em;
+            box-shadow: 1px 1px 2px #888888;
+        }
+    }
+    
+}
